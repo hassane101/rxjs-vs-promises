@@ -1,0 +1,21 @@
+{
+  "name": "rxjs-vs-promises",
+  "version": "1.0.0",
+  "description": "rxjs vs promises",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "rxjs": "6.5.5"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "javascript",
+    "starter"
+  ]
+}
